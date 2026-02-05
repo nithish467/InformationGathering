@@ -71,7 +71,7 @@ Host: example.com
 
 ## httprint
 ### output
-<img width="672" height="104" alt="Screenshot From 2026-01-31 12-16-37" src="https://github.com/user-attachments/assets/bb1fb9fa-cac4-419e-8e33-5804f2deb947" />
+<img width="224" height="113" alt="image" src="https://github.com/user-attachments/assets/9042d298-8476-4065-a8fc-5fe835585c7c" />
 
 
 
