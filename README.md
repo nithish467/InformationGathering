@@ -60,34 +60,40 @@ Host: example.com
 
 
 ## nmap:
-###output
+### output
+<img width="801" height="270" alt="Screenshot From 2026-01-31 12-18-35" src="https://github.com/user-attachments/assets/8fbfd33f-957a-4687-ab5a-cdfe86b93dfc" />
 
 
 ## Whatweb
 ### output
+<img width="1689" height="141" alt="Screenshot From 2026-01-31 12-24-03" src="https://github.com/user-attachments/assets/9bbf4c33-889a-4d3e-8f84-674e333e8525" />
 
 
 ## httprint
 ### output
+<img width="672" height="104" alt="Screenshot From 2026-01-31 12-16-37" src="https://github.com/user-attachments/assets/bb1fb9fa-cac4-419e-8e33-5804f2deb947" />
 
 
 
 
 # Tracing the Location
 TCP Traceroute:
-sudo traceroute -T www.google.com
+sudo traceroute -T www.sony.com
 ## output
+<img width="844" height="116" alt="Screenshot From 2026-01-31 12-42-14" src="https://github.com/user-attachments/assets/8be46a61-5898-47ee-a83a-94059414b3d8" />
 
 
 ## UDP Traceroute:
 sudo traceroute -U www.google.com
 ## output
+<img width="619" height="620" alt="Screenshot From 2026-01-31 12-17-08" src="https://github.com/user-attachments/assets/d1a2b275-c29c-40a7-91db-b83fac0c004d" />
 
 
 
 ## ICMP Traceroute:
 sudo traceroute  www.google.com
 ## output
+<img width="619" height="620" alt="Screenshot From 2026-01-31 12-16-52" src="https://github.com/user-attachments/assets/62ab1d72-e9b2-4936-8ba2-9d975e782b8b" />
 
 
 
